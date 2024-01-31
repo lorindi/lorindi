@@ -1,29 +1,51 @@
-<h1 align="center">Hi 👋, I'm Lora Mitova</h1>
-<h3 align="center">A passionate Software Engineer developer from Bulgaria</h3>
+# Welcome to My GitHub Profile 👋
 
+## 👨‍💻 About Me
+Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art and programming. I'm on the lookout for exciting opportunities in the IT field. 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
+- 📧 Email: loramitova9@gmail.com
+- 📱 Phone: +359898277556
+- 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
+- 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
 
+## 🚀 Skills
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** Django, React, Angular
+- **Database:** PostgreSQL
+- **DevOps:** Docker, Linux, GitHub Actions
+- **Soft Skills:** Creativity, Motivation, Teamwork, Analysis, Innovation
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🎓 Education
+- **Python Web Developer** at Software University (10/2021 - Present)
+  - Courses include Python Web, React, Angular, DevOps for Developers, PostgreSQL, Python ORM, JS Front-End, and Python Advanced.
 
-- 🌱 I’m currently learning **programming with python** 
+- **Graphic Art BA** at National Academy of Art (09/2015 - 06/2019)
+  - Specialization in Graphics with a teaching background.
 
-- 🔥 I'm interested in backend development and design
+## 💼 Projects
+1. **CFamily - Python Django Project** (08/2023 - Present)
+   - Charity project supporting the Cystic Fibrosis Association Bulgaria.
 
-- 📫 How to reach me **loramitova9@gmail.com**
+2. **Web Crafters - React Project** (10/2023 - Present)
+   - A project focused on web development using React.
 
+## 🌐 Interests
+- Drawing
+- Cooking
+- Cycling
+- Trekking
+- Fitness
+- Shooting
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lora-mitova-833a47261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lora mitova" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100073735856715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lora mitova" height="30" width="40" /></a>
-<a href="https://instagram.com/lo_mitova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lo_mitova" height="30" width="40" /></a>
-</p>
+## 📚 Top Skills
+- **Python Django**
+- **JavaScript React**
+- **Angular**
+- **HTML5**
+- **CSS3**
+- **PostgreSQL**
+- **Docker**
+- **Linux**
+- **GitHub**
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorindi&" alt="lorindi" /></p>
+Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
