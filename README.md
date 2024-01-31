@@ -32,22 +32,22 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
     - Inspired by my expertise as a sushi master, I'm building a project using Django Rest for the backend and ReactJS for the frontend. Creating a delightful experience for sushi enthusiasts!
 
 ## 🌐 Interests
-- Drawing
-- Cooking
-- Cycling
-- Trekking
-- Fitness
-- Shooting
+- 🎨 Drawing
+- 🍳 Cooking
+- 🚴 Cycling
+- 🏞️ Trekking
+- 💪 Fitness
+- 📷 Photography
 
 ## 📚 Top Skills
-- **Python Django** 🐍
-- **JavaScript React** ⚛️
-- **Angular** 🅰️
-- **HTML5** 🌐
-- **CSS3** 🎨
-- **PostgreSQL** 🐘
-- **Docker** 🐳
-- **Linux** 🐧
-- **GitHub** 🐙
+- 🐍 **Python Django** 
+- ⚛️ **JavaScript React** 
+- 🅰️ **Angular** 
+- 🌐 **HTML5** 
+- 🎨 **CSS3** 
+- 🐘 **PostgreSQL** 
+- 🐳 **Docker** 
+- 🐧 **Linux** 
+- 🐙 **GitHub** 
 
 Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
