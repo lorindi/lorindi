@@ -38,14 +38,14 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 - Shooting
 
 ## 📚 Top Skills
-- **Python Django**
-- **JavaScript React**
-- **Angular**
-- **HTML5**
-- **CSS3**
-- **PostgreSQL**
-- **Docker**
-- **Linux**
-- **GitHub**
+- **Python Django** 🐍
+- **JavaScript React** ⚛️
+- **Angular** 🅰️
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **PostgreSQL** 🐘
+- **Docker** 🐳
+- **Linux** 🐧
+- **GitHub** 🐙
 
 Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
