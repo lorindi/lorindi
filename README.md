@@ -26,7 +26,7 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 1. **CFamily - Python Django Project** (08/2023 - Present)
    - Charity project supporting the Cystic Fibrosis Association Bulgaria.
 
-2. **Web Crafters - React Project** (10/2023 - Present)
+2. **Web Crafters - React Project** (10/2023 - 12/2023)
    - A project focused on web development using React.
 3. **MagicSushiLora - Django Rest and React Project** (In Progress)
     - Inspired by my expertise as a sushi master, I'm building a project using Django Rest for the backend and ReactJS for the frontend. Creating a delightful experience for sushi enthusiasts!
