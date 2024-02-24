@@ -8,6 +8,7 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 - 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
 - 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
 - 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
+- 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, HTML5, CSS3
 - **Frameworks:** Django, React, Angular
