@@ -17,7 +17,7 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 - **Soft Skills:** Creativity, Motivation, Teamwork, Analysis, Innovation
 
 ## 🎓 Education
-- **Python Web Developer** at Software University (10/2021 - Present)
+- **Python Web Developer** at Software University (10/2021 - 12/2023)
   - Courses include Python Web, React, Angular, DevOps for Developers, PostgreSQL, Python ORM, JS Front-End, and Python Advanced.
 
 - **Graphic Art BA** at National Academy of Art (09/2015 - 06/2019)
