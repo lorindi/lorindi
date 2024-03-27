@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## 👨‍💻 About Me
-Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art and programming. I'm on the lookout for exciting opportunities in the IT field. 
+Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and programming. I'm on the lookout for exciting opportunities in the IT field. 
 
 - 📧 Email: loramitova9@gmail.com
 - 📱 Phone: +359898277556
@@ -9,16 +9,16 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 - 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
 - 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
 - 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
+- 
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, HTML5, CSS3
 - **Frameworks:** Django, React, Angular
 - **Database:** PostgreSQL
-- **DevOps:** Docker, Linux, GitHub Actions
 - **Soft Skills:** Creativity, Motivation, Teamwork, Analysis, Innovation
 
 ## 🎓 Education
 - **Software University** (10/2021 - 12/2023)
-  - Courses include Python Web, React, Angular, DevOps for Developers, PostgreSQL, Python ORM, JS Front-End, and Python Advanced.
+  - Courses include Python Advanced, Python Web, PostgreSQL, JS Front-End, React, Angular, and Typescript.
 
 - **Graphic Art BA** at National Academy of Art (09/2015 - 06/2019)
   - Specialization in Graphics with a teaching background.
@@ -42,13 +42,12 @@ Hello there! I'm **Lora Mitova**, a Python Web Developer passionate about art an
 
 ## 📚 Top Skills
 - 🐍 **Python Django** 
-- ⚛️ **JavaScript React** 
-- 🅰️ **Angular** 
+- ⚛️ **React** 
+- 🅰️ **Angular**
+- 📄 **Typescript**
 - 🌐 **HTML5** 
 - 🎨 **CSS3** 
 - 🐘 **PostgreSQL** 
-- 🐳 **Docker** 
-- 🐧 **Linux** 
 - 🐙 **GitHub** 
 
 Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
