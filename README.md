@@ -11,14 +11,14 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
 - 
 ## 🚀 Skills
-- **Languages:** Python, JavaScript, HTML5, CSS3
-- **Frameworks:** Django, React, Angular
-- **Database:** PostgreSQL
+- **Languages:** Python, JavaScript, HTML5, CSS3, TypeScript
+- **Frameworks:** Django, React, Angular, Express
+- **Database:** PostgreSQL, MongoDB
 - **Soft Skills:** Creativity, Motivation, Teamwork, Analysis, Innovation
 
 ## 🎓 Education
 - **Software University** (10/2021 - 12/2023)
-  - Courses include Python Advanced, Python Web, PostgreSQL, JS Front-End, React, Angular, and Typescript.
+  - Courses include Python Advanced, Python Web, JS Web, PostgreSQL, JS Front-End, React, Angular, and Typescript.
 
 - **Graphic Art BA** at National Academy of Art (09/2015 - 06/2019)
   - Specialization in Graphics with a teaching background.
@@ -41,13 +41,22 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 📷 Photography
 
 ## 📚 Top Skills
-- 🐍 **Python Django** 
+- 🐍 **Python**
+- 🐍 Django
+- 📜 **Node.js**
+- 🟢 **Express**
+- 🌐 **JavaScript**
+- 📄 **Typescript**
 - ⚛️ **React** 
 - 🅰️ **Angular**
-- 📄 **Typescript**
+- 🍃 **MongoDB**
+- 🐘 **PostgreSQL**
 - 🌐 **HTML5** 
 - 🎨 **CSS3** 
-- 🐘 **PostgreSQL** 
 - 🐙 **GitHub** 
+
+
+
+
 
 Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
