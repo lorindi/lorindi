@@ -20,7 +20,7 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - **Software University** (10/2021 - 12/2023)
   - Courses include Python Advanced, Python Web, JS Web, PostgreSQL, JS Front-End, React, Angular, and Typescript.
 
-- **Graphic Art BA** at National Academy of Art (09/2015 - 06/2019)
+- **Graphic Art BA** at National Academy of Art (09/2015 - 01/2025)
   - Specialization in Graphics with a teaching background.
 
 ## 💼 Projects
