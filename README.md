@@ -11,7 +11,7 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
 - 
 ## 🚀 Skills
-- **Languages:** Python, JavaScript, TypeScript HTML5, CSS3,PLpgSQL
+- **Languages:** Python, JavaScript, TypeScript HTML5, CSS3, PLpgSQL
 - **Frameworks:** Django, React, Angular, Express
 - **Database:** PostgreSQL, MongoDB
 - **Soft Skills:** Creativity, Motivation, Teamwork, Analysis, Innovation
