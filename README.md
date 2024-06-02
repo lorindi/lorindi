@@ -45,7 +45,8 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|8.  [TypeScript]()| 👉 ✅ 📃|
+|9.  [TypeScript]()| 👉 ✅ 📃|
+|8.  [React](https://github.com/lorindi/Certificates/blob/main/ReactJS%20-%20October%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
 |7.  [JavaScript Front-End](https://github.com/lorindi/Certificates/blob/main/JS%20Front-End%20-%20February%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
 |6.  [HTML & CSS](https://github.com/lorindi/Certificates/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
 |5.  [Python Web Framework](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Framework%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
