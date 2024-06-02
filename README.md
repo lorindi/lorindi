@@ -14,12 +14,9 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 **Languages:**
 - Python 🐍  JavaScript 🌐  TypeScript 💻
 
-**Frameworks:**
-- Django 🕸️  Next.js 🚀  Angular 📐  Express 🌉
-
-**Libraries:**
-- React ⚛️
-
+**Frameworks, Libraries:**
+- Django 🕸️  Next.js 🚀  Angular 📐  Express 🌉 React ⚛️
+  
 **Database:**
 - PostgreSQL 🐘  MySQL 🗄️  MongoDB 🍃
 
