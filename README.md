@@ -10,7 +10,7 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
 - 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
   
-## 🚀 Skills
+## 🚀 My Skills
 - **Languages:** Python, JavaScript, TypeScript
 - **Frameworks:** Django, Next.js, Angular, Express
 - **Libraries:** React
@@ -42,21 +42,28 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 💪 Fitness
 - 📷 Photography
 
-## 📚 Top Skills
-- 🐍 **Python**
-- 🐍 Django
-- 📜 **Node.js**
-- 🟢 **Express**
-- 🌐 **JavaScript**
-- 📄 **Typescript**
-- ⚛️ **React** 
-- 🅰️ **Angular**
-- 🍃 **MongoDB**
-- 🐘 **PostgreSQL**
-- 🌐 **HTML5** 
-- 🎨 **CSS3** 
-- 🐙 **GitHub** 
+## 📜 Certificates 
+| Courses           | 	Certificates                                                     |
+| ----------------- | ------------------------------------------------------------------ |
+|15. [TypeScript]()| 👉 ✅ 📃|
+|08.  [JavaScript Front-End](https://github.com/lorindi/Certificates/blob/main/JS%20Front-End%20-%20February%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
+|07.  [HTML & CSS]([https://github.com/gogata05/SoftUni-HTML-CSS-May-2023/blob/main/README.md](https://github.com/lorindi/Certificates/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.pdf))| 👉 ✅ 📃|
+|06.  [Python Web Framework](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Framework%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|05.  [Python Web Basic](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Basics%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|04.  [Python OOP](https://github.com/lorindi/Certificates/blob/main/Python%20OOP%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|03.  [Python Advanced](https://github.com/lorindi/Certificates/blob/main/Python%20Advanced%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|02.  [JavaScript Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|01.  [Python Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20October%202021%20-%20Certificate.pdf)| 👉 ✅ 📃|
 
+</br></br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+</br></br>
 
 
 
