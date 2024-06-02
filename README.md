@@ -45,15 +45,15 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 ## 📜 Certificates 
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
-|15. [TypeScript]()| 👉 ✅ 📃|
-|08.  [JavaScript Front-End](https://github.com/lorindi/Certificates/blob/main/JS%20Front-End%20-%20February%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
-|07.  [HTML & CSS](https://github.com/lorindi/Certificates/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.pdf))| 👉 ✅ 📃|
-|06.  [Python Web Framework](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Framework%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|05.  [Python Web Basic](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Basics%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|04.  [Python OOP](https://github.com/lorindi/Certificates/blob/main/Python%20OOP%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|03.  [Python Advanced](https://github.com/lorindi/Certificates/blob/main/Python%20Advanced%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|02.  [JavaScript Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|01.  [Python Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20October%202021%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|8. [TypeScript]()| 👉 ✅ 📃|
+|7.  [JavaScript Front-End](https://github.com/lorindi/Certificates/blob/main/JS%20Front-End%20-%20February%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
+|6.  [HTML & CSS](https://github.com/lorindi/Certificates/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.pdf))| 👉 ✅ 📃|
+|5.  [Python Web Framework](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Framework%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|4.  [Python Web Basic](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Basics%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|3.  [Python OOP](https://github.com/lorindi/Certificates/blob/main/Python%20OOP%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|2.  [Python Advanced](https://github.com/lorindi/Certificates/blob/main/Python%20Advanced%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|1.  [JavaScript Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|0.  [Python Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20October%202021%20-%20Certificate.pdf)| 👉 ✅ 📃|
 
 </br></br>
 
