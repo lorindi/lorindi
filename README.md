@@ -4,7 +4,6 @@
 Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and programming. I'm on the lookout for exciting opportunities in the IT field. 
 
 - 📧 Email: loramitova9@gmail.com
-- 📱 Phone: +359898277556
 - 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
 - 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
 - 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
