@@ -8,6 +8,13 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 - 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
 - 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
 - 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
+
+## 🌟 My Portfolio
+Explore my work and projects in detail on my portfolio website:
+
+- 🌐 **Portfolio:** [lorindi.vercel.app](https://lorindi.vercel.app/)
+
+On my portfolio, you'll find a comprehensive showcase of my skills, projects, and accomplishments.
   
 ## 🚀 My Skills
 **Languages:**
