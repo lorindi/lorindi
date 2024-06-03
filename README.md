@@ -12,7 +12,7 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 ## 🌟 Portfolio
 Explore my work and projects in detail on my portfolio website:
 
-- 🌐 **Portfolio:** [lorindi.vercel.app](https://lorindi.vercel.app/)
+- 🌐 **Portfolio:** [lorindi](https://lorindi.vercel.app/)
 
 On my portfolio, you'll find a comprehensive showcase of my skills, projects, and accomplishments.
   
