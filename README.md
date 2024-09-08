@@ -68,8 +68,8 @@ On my portfolio, you'll find a comprehensive showcase of my skills, projects, an
 |4.  [Python Web Basic](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Basics%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
 |3.  [Python OOP](https://github.com/lorindi/Certificates/blob/main/Python%20OOP%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
 |2.  [Python Advanced](https://github.com/lorindi/Certificates/blob/main/Python%20Advanced%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|1.  [JavaScript Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|0.  [Python Basics](https://github.com/lorindi/Certificates/blob/main/Programming%20Basics%20-%20October%202021%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|1.  [JavaScript Basics](https://softuni.bg/Certificates/Details/144613/ab055216)| 👉 ✅ 📃|
+|0.  [Python Basics](https://softuni.bg/Certificates/Details/118302/075f9e34))| 👉 ✅ 📃|
 
 </br></br>
 
