@@ -61,15 +61,15 @@ On my portfolio, you'll find a comprehensive showcase of my skills, projects, an
 | Courses           | 	Certificates                                                     |
 | ----------------- | ------------------------------------------------------------------ |
 |9.  [TypeScript](https://softuni.bg/Certificates/Details/215498/d68ac7d7)| 👉 ✅ 📃|
-|8.  [React](https://github.com/lorindi/Certificates/blob/main/ReactJS%20-%20October%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
-|7.  [JavaScript Front-End](https://github.com/lorindi/Certificates/blob/main/JS%20Front-End%20-%20February%202023%20-%20Certificate.pdf) | 👉 ✅ 📃|
-|6.  [HTML & CSS](https://github.com/lorindi/Certificates/blob/main/HTML%20%26%20CSS%20-%20January%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|5.  [Python Web Framework](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Framework%20-%20June%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|4.  [Python Web Basic](https://github.com/lorindi/Certificates/blob/main/Python%20Web%20Basics%20-%20May%202023%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|3.  [Python OOP](https://github.com/lorindi/Certificates/blob/main/Python%20OOP%20-%20October%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
-|2.  [Python Advanced](https://github.com/lorindi/Certificates/blob/main/Python%20Advanced%20-%20September%202022%20-%20Certificate.pdf)| 👉 ✅ 📃|
+|8.  [React](https://softuni.bg/Certificates/Details/197736/bee59b2a) | 👉 ✅ 📃|
+|7.  [JavaScript Front-End](https://softuni.bg/Certificates/Details/170702/e4ebec81) | 👉 ✅ 📃|
+|6.  [HTML & CSS](https://softuni.bg/Certificates/Details/182398/8fa320ee)| 👉 ✅ 📃|
+|5.  [Python Web Framework](https://softuni.bg/Certificates/Details/182398/8fa320ee)| 👉 ✅ 📃|
+|4.  [Python Web Basic](https://softuni.bg/Certificates/Details/177869/ae364f64)| 👉 ✅ 📃|
+|3.  [Python OOP](https://softuni.bg/Certificates/Details/150379/778f00f2)| 👉 ✅ 📃|
+|2.  [Python Advanced](https://softuni.bg/Certificates/Details/152067/65987736)| 👉 ✅ 📃|
 |1.  [JavaScript Basics](https://softuni.bg/Certificates/Details/144613/ab055216)| 👉 ✅ 📃|
-|0.  [Python Basics](https://softuni.bg/Certificates/Details/118302/075f9e34))| 👉 ✅ 📃|
+|0.  [Python Basics](https://softuni.bg/Certificates/Details/118302/075f9e34)| 👉 ✅ 📃|
 
 </br></br>
 
