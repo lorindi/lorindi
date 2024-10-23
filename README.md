@@ -37,7 +37,7 @@ On my portfolio, you'll find a comprehensive showcase of my skills, projects, an
 - **Software University** (10/2021 - 12/2024)
   - Courses include Python Advanced, Python Web, JS Front-End, React, Typescript, and VueJS.
 
-- **Graphic Art BA** at National Academy of Art (09/2015 - 01/2025)
+- **Graphic Art BA** at National Academy of Art (09/2015 - 07/2019)
   - Specialization in Graphics with a teaching background.
 
 ## 🌐 Interests
