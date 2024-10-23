@@ -5,9 +5,6 @@ Hello there! I'm **Lora Mitova**, a Web Developer passionate about art and progr
 
 - 📧 Email: loramitova9@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
-- 🌐 GitHub: [github.com/lorindi](https://github.com/lorindi)
-- 📘 Facebook: [facebook.com/lora-mitova](https://www.facebook.com/profile.php?id=100073735856715)
-- 📘 Instagram: [instagram.com/lo_mitova](https://www.instagram.com/lo_mitova/)
 
 ## 🌟 Portfolio
 Explore my work and projects in detail on my portfolio website:
