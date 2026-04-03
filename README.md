@@ -13,26 +13,9 @@ Explore my work and projects in detail on my portfolio website:
 
 On my portfolio, you'll find a comprehensive showcase of my skills, projects, and accomplishments.
   
-## 🚀 Skills
-**Languages:**
-- Python 🐍  JavaScript 🌐  TypeScript 💻
-
-**Frameworks, Libraries:**
-- Django 🕸️  Next.js 🚀  Angular 📐  Express 🌉 React ⚛️
-  
-**Database:**
-- PostgreSQL 🐘  MySQL 🗄️  MongoDB 🍃
-
-**Technologies:**
-- Framer Motion 🎥  SASS 🎨  Tailwind CSS 💨  HTML5 📜  CSS3 🎛️
-
-**Soft Skills:**
-- Creativity 🎨  Motivation 🚀  Teamwork 🤝  Analysis 🔍  Innovation 💡
-
-
 ## 🎓 Education
-- **Software University** (10/2021 - 12/2024)
-  - Courses include Python Advanced, Python Web, JS Front-End, React, Typescript, and VueJS.
+- **Software University** (10/2021 - 2026)
+  - Courses include Python Advanced, Python Web, JS Front-End, React, Typescript, and VueJS, Data Engineering and Analytics
 
 - **Graphic Art BA** at National Academy of Art (09/2015 - 07/2019)
   - Specialization in Graphics with a teaching background.
