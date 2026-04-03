@@ -15,7 +15,7 @@ On my portfolio, you'll find a comprehensive showcase of my skills, projects, an
   
 ## 🎓 Education
 - **Software University** (10/2021 - 2026)
-  - Courses include Python Advanced, Python Web, JS Front-End, React, Typescript, and VueJS, Data Engineering and Analytics
+  - Courses include Python Advanced, Python Web, JS Front-End, React, Typescript, VueJS,and Data Engineering and Analytics
 
 - **Graphic Art BA** at National Academy of Art (09/2015 - 07/2019)
   - Specialization in Graphics with a teaching background.
