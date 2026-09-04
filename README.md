@@ -1,49 +1,71 @@
 <h1 align="center">Lora Mitova</h1>
+
 <h3 align="center">
   <img src="https://img.shields.io/badge/Data%20Developer%20%7C%20Open%20to%20Data%20Engineering%20%26%20BI%20Roles-F2A03D?style=for-the-badge" height="38">
 </h3>
+
 <p align="center">
   Sofia, Bulgaria ·
   <a href="https://www.linkedin.com/in/lora-mitova-833a47261/">LinkedIn</a> ·
   <a href="mailto:loramitova9@gmail.com">loramitova9@gmail.com</a>
 </p>
-About
+
+## About
+
 Developer with backend and frontend experience, currently working in data. SQL and PostgreSQL, ETL pipelines with Airflow and Snowflake, Power BI dashboards, Python with pandas and NumPy.
+
 Previously backend on a card tokenization platform in payments (Java, AWS serverless), and two years frontend with React, Next.js and TypeScript.
+
 English: professional working proficiency. Bulgarian: native.
-Experience
-Backend Developer, Iteco Ltd
-08/2025 - 01/2026
+
+## Experience
+
+### Backend Developer, Iteco Ltd
+*08/2025 - 01/2026*
+
 Card tokenization platform in payments. The platform sits between banks and payment schemes such as Visa and Mastercard, so a card issuer integrates once instead of separately with every provider. Product includes backend services, mobile SDKs, a web management console and public APIs.
-Java services in an AWS serverless environment: Lambda, API Gateway, DynamoDB
-REST APIs, data transformation layers, security logic
-Cryptographic mechanisms for card data, request and payload validation, error handling
-Mockups and simulators for the different actors in the flow, for end-to-end scenario testing
-Swagger for API documentation, Postman for testing, Gradle and Jenkins for builds and deployment
-Estimates, deadlines, daily standups, reporting, code review, Git pull requests
-Frontend Developer, Cost-Effective Solutions
-05/2024 - 03/2025
-React and Next.js applications, reusable UI components
-Data visualizations and export with Recharts, D3.js, jsPDF and HTML2Canvas
-Real-time data and authentication with Firebase and JWT
-Forms with Formik, React Hook Form and Yup
-Stripe payments and Google Maps API integration
-Client meetings, requirements clarification, feature planning
-Projects
-Project	Description	Tech Stack	Link
-EstateApp	Full-stack real estate platform: listings, advanced search, real-time chat	React, Express.js, MongoDB, Socket.io, Zustand, Cloudinary	Repo
-Portfolio	Internship and independent projects	React, Next.js, Tailwind, Framer Motion	Repo
-Power BI Analytics	SQL-sourced dashboards with DAX measures	PostgreSQL, Power BI, DAX	Repo
-ETL Pipeline	Pipeline across JSON, S3, SQL and API sources	Airflow, Snowflake, Python	Repo
-Data Science Project	Collection, cleaning, EDA, statistical inference, modelling	Python, pandas, NumPy, Matplotlib, Jupyter	Repo
-Education
-Full Stack Developer, Software University (SoftUni), 2021-2025
+
+- Java services in an AWS serverless environment: Lambda, API Gateway, DynamoDB
+- REST APIs, data transformation layers, security logic
+- Cryptographic mechanisms for card data, request and payload validation, error handling
+- Mockups and simulators for the different actors in the flow, for end-to-end scenario testing
+- Swagger for API documentation, Postman for testing, Gradle and Jenkins for builds and deployment
+- Estimates, deadlines, daily standups, reporting, code review, Git pull requests
+
+### Frontend Developer, Cost-Effective Solutions
+*05/2024 - 03/2025*
+
+- React and Next.js applications, reusable UI components
+- Data visualizations and export with Recharts, D3.js, jsPDF and HTML2Canvas
+- Real-time data and authentication with Firebase and JWT
+- Forms with Formik, React Hook Form and Yup
+- Stripe payments and Google Maps API integration
+- Client meetings, requirements clarification, feature planning
+
+## Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| EstateApp | Full-stack real estate platform: listings, advanced search, real-time chat | React, Express.js, MongoDB, Socket.io, Zustand, Cloudinary | [Repo](https://github.com/lorindi) |
+| Portfolio | Internship and independent projects | React, Next.js, Tailwind, Framer Motion | [Repo](https://github.com/lorindi) |
+| Power BI Analytics | SQL-sourced dashboards with DAX measures | PostgreSQL, Power BI, DAX | [Repo](https://github.com/lorindi) |
+| ETL Pipeline | Pipeline across JSON, S3, SQL and API sources | Airflow, Snowflake, Python | [Repo](https://github.com/lorindi) |
+| Data Science Project | Collection, cleaning, EDA, statistical inference, modelling | Python, pandas, NumPy, Matplotlib, Jupyter | [Repo](https://github.com/lorindi) |
+
+## Education
+
+**Full Stack Developer**, Software University (SoftUni), 2021-2025
+
 Data courses: PostgreSQL, Data Warehouse & ETL, Data Analytics and Visualizations, Data Science, Math Concepts for Developers, Fundamentals in Mathematics.
+
 Development courses: Programming Basics, Fundamentals, HTML & CSS, Front-End, JS Front-End, JS Back-End, React, Angular, VueJS, TypeScript, Python Advanced, Python Web, QA Basics.
-BA in Graphic Art, National Academy of Art, Sofia, 2015-2019
+
+**BA in Graphic Art**, National Academy of Art, Sofia, 2015-2019
 Etching, drypoint and lithography, with an additional teaching qualification.
-Tech Stack
-Data, Analytics & BI
+
+## Tech Stack
+
+### Data, Analytics & BI
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="35">
@@ -56,7 +78,8 @@ Data, Analytics & BI
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="35">
 </div>
-Languages
+
+### Languages
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="35">
@@ -66,7 +89,8 @@ Languages
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" height="35">
 </div>
-Cloud & DevOps
+
+### Cloud & DevOps
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white" height="35">
@@ -78,7 +102,8 @@ Cloud & DevOps
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="35">
 </div>
-Databases
+
+### Databases
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="35">
@@ -88,7 +113,8 @@ Databases
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="35">
 </div>
-Backend & APIs
+
+### Backend & APIs
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="35">
@@ -97,7 +123,8 @@ Backend & APIs
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="35">
 </div>
-Frontend
+
+### Frontend
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="35">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="35">
@@ -110,7 +137,8 @@ Frontend
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" height="35">
 </div>
-Tools
+
+### Tools
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" height="35">
@@ -118,31 +146,9 @@ Tools
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="35">
 </div>
-GitHub Stats
+
+## GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lorindi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorindi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📜 Certificates 
-| Courses           | 	Certificates                                                     |
-| ----------------- | ------------------------------------------------------------------ |
-|9.  [TypeScript](https://softuni.bg/Certificates/Details/215498/d68ac7d7)| 👉 ✅ 📃|
-|8.  [React](https://softuni.bg/Certificates/Details/197736/bee59b2a) | 👉 ✅ 📃|
-|7.  [JavaScript Front-End](https://softuni.bg/Certificates/Details/170702/e4ebec81) | 👉 ✅ 📃|
-|6.  [HTML & CSS](https://softuni.bg/Certificates/Details/182398/8fa320ee)| 👉 ✅ 📃|
-|5.  [Python Web Framework](https://softuni.bg/Certificates/Details/182398/8fa320ee)| 👉 ✅ 📃|
-|4.  [Python Web Basic](https://softuni.bg/Certificates/Details/177869/ae364f64)| 👉 ✅ 📃|
-|3.  [Python OOP](https://softuni.bg/Certificates/Details/150379/778f00f2)| 👉 ✅ 📃|
-|2.  [Python Advanced](https://softuni.bg/Certificates/Details/152067/65987736)| 👉 ✅ 📃|
-|1.  [JavaScript Basics](https://softuni.bg/Certificates/Details/144613/ab055216)| 👉 ✅ 📃|
-|0.  [Python Basics](https://softuni.bg/Certificates/Details/118302/075f9e34)| 👉 ✅ 📃|
-
-</br></br>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-</br></br>
 
